@@ -27,6 +27,8 @@ LT1577: M: DFS: Sum of leaf nodes
 LT937: M: BS: How Many Problem Can I Accept
 LT092: M: DP: Backpack: two methods
 LT0706: M: BM: Binary Watch
+LT003: M: BM: Digit Counts
+LT008: E: BM: Rotate String
 
 
 

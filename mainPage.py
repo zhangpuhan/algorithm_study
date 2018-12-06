@@ -1,4 +1,4 @@
 print("LeetCode Everyday!")
 
 
-print(3 * 2 % 5)
+print("%04d" % 5)

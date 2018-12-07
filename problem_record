@@ -33,6 +33,15 @@ LT0374: M: BM: Spiral Matrix
 LT009: E: BM: Fizz Buzz
 LT013: E: BM: Implement strStr()
 
+12072018
+LT627: E: HS: Longest Palindrome
+LT415: M: BM: Valid Palindrome
+LT200: M: BM: Longest Palindromic Substring
+LT458: E: BS: last-position-of-target
+LT585: M: BS: Maximum Number in Mountain Sequence
+
+
+
 
 
 

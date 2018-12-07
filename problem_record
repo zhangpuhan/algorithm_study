@@ -29,6 +29,10 @@ LT092: M: DP: Backpack: two methods
 LT0706: M: BM: Binary Watch
 LT003: M: BM: Digit Counts
 LT008: E: BM: Rotate String
+LT0374: M: BM: Spiral Matrix
+LT009: E: BM: Fizz Buzz
+LT013: E: BM: Implement strStr()
+
 
 
 

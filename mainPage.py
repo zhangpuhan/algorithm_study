@@ -1,4 +1,3 @@
-print("LeetCode Everyday!")
+import LT22
 
-
-print("%04d" % 5)
+print(LT22.Solution.flatten([[1,1],2,[1,1]]))

@@ -40,7 +40,8 @@ LT200: M: BM: Longest Palindromic Substring
 LT458: E: BS: last-position-of-target
 LT585: M: BS: Maximum Number in Mountain Sequence
 LT667: M: DP: Longest Palindromic Subsequence
-LT594: H: HS:
+LT594: H: HS: strStr II (?)
+LT22: E: BM:
 
 
 

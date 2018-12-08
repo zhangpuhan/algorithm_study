@@ -41,8 +41,10 @@ LT458: E: BS: last-position-of-target
 LT585: M: BS: Maximum Number in Mountain Sequence
 LT667: M: DP: Longest Palindromic Subsequence
 LT594: H: HS: strStr II (?)
-LT22: E: BM:
+LT22: E: BM: Flatten List
 
+12082018
+LT460: M: BS: Find K closest elements
 
 
 

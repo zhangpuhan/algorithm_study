@@ -45,6 +45,9 @@ LT22: E: BM: Flatten List
 
 12082018
 LT460: M: BS: Find K closest elements
+LT447: M: BS: Search in a Big Sorted Array
+LT159: M: BS: Find Minimum in Rotated Sorted Array
+
 
 
 

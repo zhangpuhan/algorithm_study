@@ -48,6 +48,9 @@ LT460: M: BS: Find K closest elements
 LT447: M: BS: Search in a Big Sorted Array
 LT159: M: BS: Find Minimum in Rotated Sorted Array
 LT75: M: BS: Find Peak Element
+LT74: M: BS: First Bad Version
+LT62: M: BS: Search in Rotated Sorted Array
+
 
 
 

@@ -48,6 +48,34 @@ LT460: M: BS: Find K closest elements
 LT447: M: BS: Search in a Big Sorted Array
 LT159: M: BS: Find Minimum in Rotated Sorted Array
 LT75: M: BS: Find Peak Element
+LT74: M: BS: First Bad Version
+LT62: M: BS: Search in Rotated Sorted Array
+LT462: E: BS: Total Occurrence of Target
+LT459: E: BS: Closest Number in Sorted Array
+
+12092018
+LT228: N: DPo: Middle of Linked List
+LT235: E: BS: Prime Factorization
+LT254: E: BS: Drop Eggs
+LT28: E: BS: Search a 2D Matrix
+
+12112018
+LT607: E: DPo: Two Sum III - Data structure design
+LT539: E: DPo: Moving zeros
+LT521: E: DPo: Remove Duplicate Numbers in Array
+LT464: E: SR: Sort Integers II
+LT608: M: DPo: Two Sum II - Input array is sorted
+LT143: M: DPo, SR: Sort Colors II
+
+
+
+
+
+
+
+
+
+
 
 
 

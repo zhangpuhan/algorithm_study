@@ -67,6 +67,11 @@ LT464: E: SR: Sort Integers II
 LT608: M: DPo: Two Sum II - Input array is sorted
 LT143: M: DPo, SR: Sort Colors II
 
+12162018
+LT5: M: DPo: Kth Largest Element
+LT433: E: BFS: Number of islands
+LT69: E: BFS, queue:
+
 
 
 
